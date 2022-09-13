@@ -1,3 +1,4 @@
 Alteração no arquivo
+Inserindo linha qualquer no meio do arquivo (branch master)
 Bug desse arquivo corrigido
 Novas alterações feitas
